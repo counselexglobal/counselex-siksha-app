@@ -1,0 +1,78 @@
+[
+  {
+    "id": "lead_1793463356041_7hgl6",
+    "fullName": "Aarav Sharma",
+    "phone": "+91 9876543210",
+    "email": "aarav.sharma@example.com",
+    "course": "B.Tech",
+    "city": "New Delhi",
+    "college": "",
+    "source": "Bottom-Left Floating Button",
+    "createdAt": "2026-10-31T16:15:56.041Z"
+  },
+  {
+    "id": "lead_1793817548316_sd3jz",
+    "name": "Test Student Counselex",
+    "fullName": "Test Student Counselex",
+    "phone": "9027589486",
+    "email": "student@counselex.com",
+    "course": "B.Tech",
+    "city": "Delhi",
+    "college": "IIT Delhi",
+    "university": "B.Tech | Delhi | IIT Delhi",
+    "source": "Free Counseling Modal",
+    "createdAt": "2026-11-04T18:39:08.316Z"
+  },
+  {
+    "id": "lead_1793817599646_uldce",
+    "name": "Aarav Sharma",
+    "fullName": "Aarav Sharma",
+    "phone": "+91 9027589486",
+    "email": "aarav.sharma@example.com",
+    "course": "B.Tech",
+    "city": "New Delhi",
+    "college": "",
+    "university": "B.Tech | New Delhi",
+    "source": "Bottom-Left Floating Button",
+    "createdAt": "2026-11-04T18:39:59.646Z"
+  },
+  {
+    "id": "lead_1793819578335_vyaxt",
+    "name": "shivji",
+    "fullName": "shivji",
+    "phone": "111111111",
+    "email": "",
+    "course": "B.Sc",
+    "city": "Bengaluru",
+    "college": "",
+    "university": "B.Sc | Bengaluru",
+    "source": "Bottom-Left Floating Button",
+    "createdAt": "2026-11-04T19:12:58.335Z"
+  },
+  {
+    "id": "lead_1793819637749_rk8ek",
+    "name": "parvati maa",
+    "fullName": "parvati maa",
+    "phone": "1111111111",
+    "email": "parvati@gmail.com",
+    "course": "B.Tech",
+    "city": "kailash",
+    "college": "",
+    "university": "B.Tech | kailash",
+    "source": "Header CTA",
+    "createdAt": "2026-11-04T19:13:57.749Z"
+  },
+  {
+    "id": "lead_1793820050680_5kgd0",
+    "name": "Aarav Sharma",
+    "fullName": "Aarav Sharma",
+    "phone": "+91 9027589486",
+    "email": "aarav.sharma@example.com",
+    "course": "B.Tech",
+    "city": "New Delhi",
+    "college": "",
+    "university": "B.Tech | New Delhi",
+    "source": "Bottom-Left Floating Button",
+    "createdAt": "2026-11-04T19:20:50.680Z"
+  }
+]
